@@ -1,0 +1,62 @@
+html{
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#main{
+  background-color:#eee;
+  margin: 25px 3px 25px 3px;
+  border-radius: 7px;
+}
+#title{
+  padding: 20px 20px 0px 20px;
+  text-align: center;}
+#context{
+text-align: center;
+}
+#img-div{
+  margin: 15px;
+  
+  background-color: white;
+  padding:10px;
+}
+#image{
+  max-width: 100%;
+  display: block;
+  height: auto;
+  
+  margin: 0 auto;
+}
+#img-caption{
+  text-align: center;
+}
+#headline{
+  text-align: center;
+  margin: 50px 0;
+}
+#tribute-info{
+  display: block;
+
+   
+ 
+}
+#tribute-info ul {
+ text-align: left ;
+ margin: 0px auto 50px auto;
+ line-height: 1.6;
+ max-width: 550px;
+}
+#tribute-info ul li{
+  margin: 15px;
+}
+#buttomline{
+  text-align: center;
+  max-width: 545px;
+  margin: 0 auto 50px auto;
+  font-style: italic;
+ 
+}
+h3{
+  display: block;
+  text-align: center;
+  padding: 30px;
+}
